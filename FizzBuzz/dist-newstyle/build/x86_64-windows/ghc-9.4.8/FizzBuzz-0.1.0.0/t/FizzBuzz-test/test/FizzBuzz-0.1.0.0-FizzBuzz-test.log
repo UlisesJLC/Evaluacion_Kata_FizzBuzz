@@ -1,0 +1,10 @@
+Test suite FizzBuzz-test: RUNNING...
+FizzBuzz tests
+  1 is one!: FAIL
+    Exception: Prelude.undefined
+    CallStack (from HasCallStack):
+      undefined, called at src\FizzBuzz.hs:3:14 in FizzBuzz-0.1.0.0-inplace:FizzBuzz
+
+1 out of 1 tests failed (0.00s)
+Test suite FizzBuzz-test: FAIL
+Test suite logged to: C:\Users\jesus\Downloads\Katas\FizzBuzz\dist-newstyle\build\x86_64-windows\ghc-9.4.8\FizzBuzz-0.1.0.0\t\FizzBuzz-test\test\FizzBuzz-0.1.0.0-FizzBuzz-test.log

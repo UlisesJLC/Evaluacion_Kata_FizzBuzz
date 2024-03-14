@@ -5,8 +5,8 @@ version:            0.1.0.0
 -- description:
 license:            MIT
 license-file:       LICENSE
-author:             Angel Perez
-maintainer:         s21120201@alumnos.itsur.edu.mx
+author:             Ulises Lemus
+maintainer:         s21120190@alumnos.itsur.edu.mx
 -- copyright:
 build-type:         Simple
 extra-doc-files:    CHANGELOG.md
